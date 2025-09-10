@@ -1,0 +1,5 @@
+{
+  "name": "Wanderlust AI - Travel Agency",
+  "description": "A modern travel agency website built with React and Tailwind CSS. It features tour package browsing, a seamless booking process, live vehicle tracking, and an AI-powered trip planner to create personalized itineraries.",
+  "requestFramePermissions": []
+}
